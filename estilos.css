@@ -1,0 +1,80 @@
+/* Reseteo por defecto CSS*/
+
+* {
+    Margin:0;
+    padding:0;
+}
+
+/* Atributos*/
+
+body{
+  font-family:'Source Sans Pro', 
+  sans-serif;
+}
+
+h2{
+  text-align: center;
+  text-decoration: underline;
+  color:rgb(184, 153, 17);
+}
+
+h3{
+  
+  text-decoration: underline;
+ 
+}
+
+section{
+  font-weight: bold;
+}
+
+p{
+  font-weight: bold;
+
+}
+
+li{
+  list-style-position: inside;
+
+}
+
+
+
+form label{
+  font-weight: bold;
+  color:rgb(9, 8, 10);
+}
+
+
+
+/* Clases*/
+
+.colorDeFondo{
+  text-align: left;
+  background-color: rgb(243, 205, 34);
+}
+
+.menu{
+  font-weight: bold;
+  font-size: 15px;
+  word-spacing: 8px;
+}
+
+.tablaContact {
+  color: #fbffff;
+  background-color: rgb(62, 105, 185);
+}
+
+.textoT {
+ 
+  font-weight: bold;
+  
+}
+
+.form{
+	width:300px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+  background-color: rgb(166, 93, 207);
+}
